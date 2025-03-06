@@ -10,4 +10,4 @@ def smth(n):
 value = input()
 output = smth(value)
 print(output)
-print("I love Mom")
+print("I love Someone")
