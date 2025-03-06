@@ -4,7 +4,7 @@ def smth(n):
         i += 1
     if n.isdigit() and i == 1:
         n = int(n) + int(n+n) + int(n+n+n) + int(n+n+n+n)
-        return n
+        return n+1
     else :
         return "Invalid"
 value = input()
